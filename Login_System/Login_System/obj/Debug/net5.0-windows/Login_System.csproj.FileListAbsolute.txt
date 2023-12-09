@@ -1,0 +1,11 @@
+C:\Users\MY PC\Downloads\Login_System\Login_System\Login_System\obj\Debug\net5.0-windows\Login_System.csproj.AssemblyReference.cache
+C:\Users\MY PC\Downloads\Login_System\Login_System\Login_System\obj\Debug\net5.0-windows\Login_System.Form1.resources
+C:\Users\MY PC\Downloads\Login_System\Login_System\Login_System\obj\Debug\net5.0-windows\Login_System.Form2.resources
+C:\Users\MY PC\Downloads\Login_System\Login_System\Login_System\obj\Debug\net5.0-windows\Login_System.GroceryMate.resources
+C:\Users\MY PC\Downloads\Login_System\Login_System\Login_System\obj\Debug\net5.0-windows\Login_System.Form4.resources
+C:\Users\MY PC\Downloads\Login_System\Login_System\Login_System\obj\Debug\net5.0-windows\Login_System.Properties.Resources.resources
+C:\Users\MY PC\Downloads\Login_System\Login_System\Login_System\obj\Debug\net5.0-windows\Login_System.csproj.GenerateResource.cache
+C:\Users\MY PC\Downloads\Login_System\Login_System\Login_System\obj\Debug\net5.0-windows\Login_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Downloads\Login_System\Login_System\Login_System\obj\Debug\net5.0-windows\Login_System.AssemblyInfoInputs.cache
+C:\Users\MY PC\Downloads\Login_System\Login_System\Login_System\obj\Debug\net5.0-windows\Login_System.AssemblyInfo.cs
+C:\Users\MY PC\Downloads\Login_System\Login_System\Login_System\obj\Debug\net5.0-windows\Login_System.csproj.CoreCompileInputs.cache
